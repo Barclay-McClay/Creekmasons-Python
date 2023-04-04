@@ -1,0 +1,90 @@
+[
+    {
+        "name": "The Fool",
+        "interpretation": "New beginnings, optimism, trust in life"
+    },
+    {
+        "name": "The Magician",
+        "interpretation": "Manifestation, resourcefulness, power"
+    },
+    {
+        "name": "The High Priestess",
+        "interpretation": "Intuition, subconscious mind, hidden knowledge"
+    },
+    {
+        "name": "The Empress",
+        "interpretation": "Femininity, beauty, nature"
+    },
+    {
+        "name": "The Emperor",
+        "interpretation": "Authority, structure, control"
+    },
+    {
+        "name": "The Hierophant",
+        "interpretation": "Tradition, conformity, morality"
+    },
+    {
+        "name": "The Lovers",
+        "interpretation": "Love, harmony, relationships, values alignment"
+    },
+    {
+        "name": "The Chariot",
+        "interpretation": "Direction, control, willpower"
+    },
+    {
+        "name": "Strength",
+        "interpretation": "Inner strength, courage, compassion"
+    },
+    {
+        "name": "The Hermit",
+        "interpretation": "Solitude, introspection, soul-searching"
+    },
+    {
+        "name": "The Wheel of Fortune",
+        "interpretation": "Change, cycles, inevitability"
+    },
+    {
+        "name": "Justice",
+        "interpretation": "Justice, fairness, truth"
+    },
+    {
+        "name": "The Hanged Man",
+        "interpretation": "Surrender, release, martyrdom"
+    },
+    {
+        "name": "Death",
+        "interpretation": "Endings, transformation, letting go"
+    },
+    {
+        "name": "Temperance",
+        "interpretation": "Balance, moderation, harmony"
+    },
+    {
+        "name": "The Devil",
+        "interpretation": "Materialism, attachment, self-bondage"
+    },
+    {
+        "name": "The Tower",
+        "interpretation": "Sudden upheaval, chaos, revelation"
+    },
+    {
+        "name": "The Star",
+        "interpretation": "Hope, faith, inspiration"
+    },
+    {
+        "name": "The Moon",
+        "interpretation": "Unconscious, illusion, intuition"
+    },
+    {
+        "name": "The Sun",
+        "interpretation": "Vitality, positivity, enlightenment"
+    },
+    {
+        "name": "Judgment",
+        "interpretation": "Judgment, rebirth, inner calling"
+    },
+    {
+        "name": "The World",
+        "interpretation": "Completion, integration, accomplishment"
+    }
+]
