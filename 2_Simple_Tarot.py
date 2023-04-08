@@ -1,5 +1,5 @@
 # This is a simple python script which will draw a random tarot card, and display some simple interpretations of it.
-# There is another file in this directory called 'major-arcana.json'. It stores all the major-arcana tarot cards in a codified way.
+# There is another file in this directory called 'MajorArcana.json'. It stores all the MajorArcana tarot cards in a codified way.
 
 # Python loads-up with basic functionality, but for more complex projects- you'll need to import modules to introduce extra functionality.
 # 'import' is used to bring external 'packages' or 'modules' into your script.
@@ -9,9 +9,9 @@ import random
 # Aside from 'random', we also need the 'json' module, to read and properly handle the tarot card data we have stored in another file.
 import json
 
-# We are going to open the 'major-arcana.json' file in 'read' ('r') mode, and store the file in a variable 'major_arcana_json'
+# We are going to open the 'MajorArcana.json' file in 'read' ('r') mode, and store the file in a variable 'major_arcana_json'
 # Then we convert the json data into a Python-friendly array with json.load, and store that array in a variable named 'tarot_data'.
-with open('major-arcana.json', 'r') as major_arcana_json: 
+with open("MajorArcana.json", 'r') as major_arcana_json: 
     tarot_data = json.load(major_arcana_json)
 
 # Let's *def*ine 'drawing a tarot card' as a function that we can use and re-use.
