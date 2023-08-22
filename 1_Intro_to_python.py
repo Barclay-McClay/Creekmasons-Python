@@ -120,7 +120,7 @@ def add(foo, bar):      # We are defining 'add', a function which will take valu
 #Simply defining a function does not run it. It just lets the computer know 'this is what I want you to do when I say 'add(55,14)'
 
 # Lets use the new 'add()' function
-poop = add(600,66) # makes cheese = 666
+poop = add(600,66) # makes poop = 666
 print(poop) # We expect to see 666
 
 # Lets use the function to condense the amount of code we have to write:
